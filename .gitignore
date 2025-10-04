@@ -112,3 +112,7 @@ codeInfo.*
 # fox CLI plot related files
 **/hash.json
 *.parquet
+
+envs
+Ruby
+Ceedling
